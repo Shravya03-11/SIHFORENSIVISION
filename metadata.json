@@ -1,0 +1,6 @@
+{
+  "name": "FORENSIVISION",
+  "description": "Multi-Vendor DVR/NVR Digital Video Forensic Analysis Platform for Standardized Acquisition, Recovery, and Analysis of Surveillance Evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
